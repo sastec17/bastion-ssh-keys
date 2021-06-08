@@ -1,4 +1,4 @@
-# plugin-development-ssh-keys
+# bastion-ssh-keys
 ssh key storage for ansible provisioning of development environments for the 2021 plugin factory
 
 1) Generate your public key on its-perfsonar-bastion.dsc.umich.edu with `ssh-keygen`
